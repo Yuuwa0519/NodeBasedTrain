@@ -1,2 +1,2 @@
 # NodeBasedTrain
-Node Based Train I use :P Quite inefficient atm, I just hacked everything together so it works somewhat
+Copy pasted my codes from node train project, this repo itself is just to show what I do to achieve node following of complex track. 
